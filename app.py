@@ -10,7 +10,7 @@ col = ['MedInc', 'HouseAge', 'AveRooms', 'AveBedrms', 'Population', 'AveOccup']
 
 st.title('California Housing Price Prediction')
 
-st.image('https://nycdsa-blog-files.s3.us-east-2.amazonaws.com/2021/03/chaitali-majumder/house-price-497112-KhCJQICS.jpg')
+st.image('https://i.pinimg.com/originals/06/8a/e7/068ae79a0119fc5c41b996a70c9bfdae.gif')
 
 
 
